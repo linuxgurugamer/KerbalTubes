@@ -1,0 +1,25 @@
+{
+  "NAME":"KerbalTubes",
+  "URL": "http://ksp.spacetux.net/avc/KerbalTubes",
+  "DOWNLOAD":"https://github.com/linuxgurugamer/KerbalTubes/releases/latest",
+  "GITHUB":
+  {
+    "USERNAME":"linuxgurugamer",
+    "REPOSITORY":"KerbalTubes",
+    "ALLOW_PRE_RELEASE":false
+  },
+  "VERSION":
+  {
+    "MAJOR":0,
+    "MINOR":1,
+    "PATCH":3,
+    "BUILD":3
+  },
+  "KSP_VERSION_MIN":
+  {
+    "MAJOR":1,
+    "MINOR":3,
+    "PATCH":0
+  }
+}
+

@@ -1,0 +1,43 @@
+Changelog
+
+1.3.3
+	Adoption by Linuxgurugamer
+	Updated agency with title
+	Renamed settings.cfg to MM_HullCam.cfg
+	Added tags to all parts
+	Added changelog
+
+1.3.2_Hotfix_1
+	Docking Iris Max functions as docking port now. Docking Iris Sr moved to coupling tab.
+
+1.3.1
+	Fixed "C" hotkey to actually switch to first-person
+	Removed duplicate right click action menus when HullcamVDS was installed
+	[All fixes by DORIAN KERMAN]
+	{Please note this is for 1.0.5, everything but the first-person camera works in 1.1}
+
+1.3
+	Added first person camera to kerbals on EVA [Plug-in by Dorian Kerman]
+
+Beta 1.2.1:
+	Improved Docking Iris Colliders [significantly reduced poly count, fixed clipping issue]
+	Improved Docking Iris Textures [removed flat grey textures]
+	Re-balanced most part unlocks [pushed most towards end of tech tree; when they become viable]
+	Added I.R.E. Agency
+	Rehosted by: SpaceDock
+
+Beta 1.2:
+	Added the Docking Iris Sr
+	Numerous other small fixes
+
+Beta 1.0:
+	Corrected directory
+	Solved lamina faces along window borders
+	Fixed glass texture on structural viewselage
+	Fixed attachment node placements
+	Changed texture format to .dds
+	General rebalancing of masses and prices
+	Added larger versions of the hollow hub-max, capola, viewselage(with twice as many windows)
+	Added a 1.25m to 2.5m hollow adapter with windows
+	Several other minor tweaks
+
