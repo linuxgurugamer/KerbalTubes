@@ -1,16 +1,19 @@
 Changelog
 
+1.3.3.2
+	Updated surface attach nodes
+
 1.3.3.1
-    Added 1.875m & 3.75m parts
-    Recalculated all costs and masses
-    Reorganized tech tree placements
-    Merged HollowHub directories
-    Merged Cupola directories
-    Changed all old style "mesh =" to MODEL
-    Created half size of all Viewselage
-    Created double length of structural adapter
-    Added spreadsheet showing calcs for cost and mass
-    
+	Added 1.875m & 3.75m parts
+	Recalculated all costs and masses
+	Reorganized tech tree placements
+	Merged HollowHub directories
+	Merged Cupola directories
+	Changed all old style "mesh =" to MODEL
+	Created half size of all Viewselage
+	Created double length of structural adapter
+	Added spreadsheet showing calcs for cost and mass
+	
 1.3.3
 	Adoption by Linuxgurugamer
 	Updated agency with title
