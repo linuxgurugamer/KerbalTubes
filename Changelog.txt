@@ -8,7 +8,8 @@ Changelog
     Merged Cupola directories
     Changed all old style "mesh =" to MODEL
     Created half size of all Viewselage
-    Created double length of structural adpter
+    Created double length of structural adapter
+    Added spreadsheet showing calcs for cost and mass
     
 1.3.3
 	Adoption by Linuxgurugamer
